@@ -14,3 +14,5 @@
   * 회원 정보 수정 및 추가, 탈퇴
   * 마이 플레이리스트
   * 앨범 또는 노래 리뷰 등록 및 수정, 삭제
+## 멜론 프로젝트 설명 사이트
+https://walnut-scent-f3e.notion.site/Melon-Java-6d33becd47074f59979d3b052a1209a3
